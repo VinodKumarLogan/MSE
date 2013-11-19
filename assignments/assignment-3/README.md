@@ -2,5 +2,5 @@ Q1) Explore the DVM instructions and prepare a summary of the same atleast for 5
 
 A.
 | Instruction        | Syntax           | Example         |
-| ------------- |:-------------:| ------------:|
-| move      | move vA, vB |  |
+|:------------------ |:----------------:|----------------:|
+| move               | move vA, vB      |                 |

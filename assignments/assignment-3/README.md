@@ -90,3 +90,43 @@ A.
 		</td>
 	</tr>
 </table>
+
+Q2> Differentiate between mobile and cloud computing
+
+<table>
+	<th>
+		Mobile Computing
+	</th>
+	<th>
+		Cloud Computing
+	</th>
+	<tr>
+		<td>
+			Mobile Computing involves transmistting data, voice and video via a computer or any other wireless enabled device without having to be connected to a fixed physical link.
+		</td>
+		<td>
+			Cloud Computing involves computing or data transfer on distributed systems over a network (like internet) 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Computing can happen offline when the device is not connected to any network
+		</td>
+		<td>
+			Computing needs network connectivity
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Mobile communication (data transfer over a mobile network=> GSM,CDMA,Wi-fi), Mobile Hardware (Laptops,Smartphones,Tablet PCs) and Mobile Software (Android,IOS,Windows) constitute to Mobile Computing
+		</td>
+		<td>
+			Infrastructure as a Service, Platform as a Service, Software as a Service and Network as a Service constitute to Cloud Computing
+		</td>
+	</tr>
+</table>
+
+Q3> Give an example of an application simulating an environment of context aware computing and justify.
+
+A.
+Google Maps application simulates an environment of context aware computing by bringing up a virtual pointer refering to the device and its orientation with respect to the map of the current vicinity. Any movement of the device with respect to positioning reflects on the map via the pointer.

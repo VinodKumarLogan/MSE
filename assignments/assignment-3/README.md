@@ -113,7 +113,7 @@ Q2> Differentiate between mobile and cloud computing
 			Computing can happen offline when the device is not connected to any network
 		</td>
 		<td>
-			Computing needs network connectivity
+			Computing needs persistent network connectivity
 		</td>
 	</tr>
 	<tr>
